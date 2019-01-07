@@ -17,7 +17,7 @@
           "SearchKeyword.csv"
         ],
         "protocol": "HTTP",
-        "url": "asda-grocery-qa2-search-app.walmart.com/grocery-search-app/recipe/search?keyword=${SearchKeyword}&requestorigin=gi&cacheable=true&page=1&page_size=30&sort_by=relevance&sort_order=desc",
+        "url": "asda-grocery-qa2-search-app.walmart.com/grocery-search-app/recipe/search?keyword=chicken&requestorigin=gi&cacheable=true&page=1&page_size=30&sort_by=relevance&sort_order=desc",
         "headers": {
           "content-type": "application/json"
         },
